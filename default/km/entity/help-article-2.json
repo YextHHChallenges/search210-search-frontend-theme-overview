@@ -6,6 +6,7 @@
     "bodyV2": {
       "markdown": "Your rewards account is the same as your delivery account. You can login at our website or by downloading and logging in to the app on your mobile phone. Once logged in, click on the \"Rewards\" tab to see your latest rewards points and status. You might be eligible to redeem some free tacos on Uncle Turtle!"
     },
+    "c_activeOnSearch": true,
     "keywords": [
       "#mobileapp",
       "#rewards"

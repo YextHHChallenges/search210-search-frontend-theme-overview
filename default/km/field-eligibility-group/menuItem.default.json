@@ -4,6 +4,7 @@
   "name": "Menu Item-default",
   "entityType": "ce_menuItem",
   "fields": [
+    "c_activeOnSearch",
     "c_allergens",
     "c_calories",
     "c_primaryCTA",

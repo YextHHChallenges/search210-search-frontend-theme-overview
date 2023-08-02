@@ -6,6 +6,7 @@
     "bodyV2": {
       "markdown": "Want to reset your password? There are two ways to do this! You will be able to reset your password via our website or the mobile app. Just click \"Forgot Password?\" when signing in and confirm your identity via phone or email."
     },
+    "c_activeOnSearch": true,
     "keywords": [
       "#resetpassword"
     ],
